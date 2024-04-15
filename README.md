@@ -9,4 +9,5 @@
   Esse projeto tenta mostrar coisa sobre gameplay a desenvolvimento e segredos do jogo
 
   # Wiki
-  
+  ## Descrição do Projeto
+  <a href="https://github.com/Meira-Lucas/projeto-app/wiki/home"> Descrição <a>
