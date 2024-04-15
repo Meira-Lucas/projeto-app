@@ -10,4 +10,7 @@
 
   # Wiki
   ## Descrição do Projeto
-  <a href="https://github.com/Meira-Lucas/projeto-app/wiki/home"> Descrição <a>
+  <a href="https://github.com/Meira-Lucas/projeto-app/wiki/home"> Descrição do projeto<a>
+
+  ## imagens do app
+  <a href="https://github.com/Meira-Lucas/projeto-app/wiki/Imagens do protótipo"> Imagens do protótipo<a>
