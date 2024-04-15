@@ -14,3 +14,7 @@
 
   ## imagens do app
   <a href="https://github.com/Meira-Lucas/projeto-app/wiki/Imagens do protótipo"> Imagens do protótipo<a>
+
+  ## Widgets
+  <a href="https://github.com/Meira-Lucas/projeto-app/wiki/Prototipo‐Widgets"> widgets utiliazado<a>
+  
