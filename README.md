@@ -3,7 +3,7 @@
 
 # Integrantes
 - Denis Rocha Lemos
-- Isabella
+- Isabella Correia de Souza
 
   # Descrição
   Esse projeto tenta mostrar coisa sobre gameplay a desenvolvimento e segredos do jogo
