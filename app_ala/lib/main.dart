@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'His.dart';
-import 'Des.dart';
 import 'Pla.dart';
 import 'Cur.dart';
+import 'Sob.dart';
+import 'Per.dart';
 
 void main() {
   runApp(const MainApp());
@@ -62,11 +62,11 @@ class TelaMenu extends StatelessWidget {
                     Navigator.push(
                       context,
                       MaterialPageRoute(
-                        builder: (context) => His(),
+                        builder: (context) => Sob(),
                       ),
                     );
                   },
-                    child: Text("H I S T Ó R I A"),
+                    child: Text("S O B R E"),
                     style: ButtonStyle(
                       backgroundColor: MaterialStateProperty.all(Color(0xFFF9B639)), 
                       foregroundColor: MaterialStateProperty.all(Color(0xFFF1F2F2)),  
@@ -83,11 +83,11 @@ class TelaMenu extends StatelessWidget {
                     Navigator.push(
                       context,
                       MaterialPageRoute(
-                        builder: (context) => Des(),
+                        builder: (context) => Per(),
                       ),
                     );
                   },
-                    child: Text("D E S E N V O L V I M E N T O"),
+                    child: Text("P E R S O N A G E N S"),
                     style: ButtonStyle(
                       backgroundColor: MaterialStateProperty.all(Color(0xFFF9B639)), 
                       foregroundColor: MaterialStateProperty.all(Color(0xFFF1F2F2)),  
