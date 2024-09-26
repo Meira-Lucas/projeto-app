@@ -6,7 +6,7 @@
 - Isabella Correia de Souza
 
   # Descrição
-  Esse projeto tenta mostrar coisa sobre gameplay a desenvolvimento e segredos do jogo
+  Esse projeto apresenta informações sobre o jogo Aladdin de 1993
 
   # Wiki
   ## Descrição do Projeto
